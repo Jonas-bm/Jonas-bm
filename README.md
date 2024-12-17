@@ -1,6 +1,3 @@
-# 💫 About Me:
-¡Bienvenidos! Soy un programador con pasión por la tecnología y el desarrollo de software. Poseo un fuerte impulso por aprender y superarme continuamente, siempre ansioso por participar en proyectos desafiantes que me permitan crecer tanto profesional como personalmente. Actualmente, estudio la carrera de Ingeniería de Sistemas de la Información en la Universidad Peruana de Ciencias Aplicadas (UPC). Mi objetivo es dejar una huella duradera en el mundo del software, creando soluciones innovadoras y eficientes que mejoren la vida de las personas. ¡Estoy emocionado por colaborar en nuevos proyectos y aprovechar al máximo cada oportunidad que se presente!
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonas16.barrientos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonas_barri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonasbarrientos) 
